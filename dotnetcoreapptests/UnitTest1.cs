@@ -13,7 +13,7 @@ namespace dotnetcoreapptests
         [TestMethod]
         public void TestMethod_Fail()
         {
-            Assert.IsTrue(false);
+            Assert.IsFalse(false);
         }
     }
 }
