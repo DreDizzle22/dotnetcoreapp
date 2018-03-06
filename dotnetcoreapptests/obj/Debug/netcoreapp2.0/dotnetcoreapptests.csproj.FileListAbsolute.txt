@@ -1,0 +1,13 @@
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/dotnetcoreapptests.deps.json
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/dotnetcoreapptests.runtimeconfig.json
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/dotnetcoreapptests.runtimeconfig.dev.json
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/dotnetcoreapptests.dll
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/bin/Debug/netcoreapp2.0/dotnetcoreapptests.pdb
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/obj/Debug/netcoreapp2.0/dotnetcoreapptests.csproj.CoreCompileInputs.cache
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/obj/Debug/netcoreapp2.0/dotnetcoreapptests.AssemblyInfoInputs.cache
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/obj/Debug/netcoreapp2.0/dotnetcoreapptests.AssemblyInfo.cs
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/obj/Debug/netcoreapp2.0/dotnetcoreapptests.dll
+/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapptests/obj/Debug/netcoreapp2.0/dotnetcoreapptests.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapp.csproj",
+      "projectUniqueName": "/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapp/dotnetcoreapp.csproj",
       "projectName": "dotnetcoreapp",
-      "projectPath": "/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapp.csproj",
+      "projectPath": "/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapp/dotnetcoreapp.csproj",
       "packagesPath": "/Users/andregaines/.nuget/packages/",
-      "outputPath": "/Users/andregaines/Projects/GitRepos/dotnetcoreapp/obj/",
+      "outputPath": "/Users/andregaines/Projects/GitRepos/dotnetcoreapp/dotnetcoreapp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
